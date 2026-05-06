@@ -1,2 +1,2 @@
-# Image-classification-
-Food recognition and analysis 
+# Image-classification
+Food safety edible, rotten, poisonous
