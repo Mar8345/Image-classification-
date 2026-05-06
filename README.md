@@ -1,2 +1,2 @@
-# Image-classification in agriculture field
-food safety edible rotten poisonous plants
+# Image-classification in Agriculture field
+food safety for edible rotten poisonous plants
